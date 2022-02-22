@@ -1,5 +1,3 @@
-# Da-uma-olhadinha...
-
 # Acho que vale apena você ler
 
 Arquivo da aula de Git e Github para iniciantes. tão legal mexer com linux + Git não é mesmo bruno ? kkkkkk vai ser meu diario no bash vim esse meu repositório kkkkk 
