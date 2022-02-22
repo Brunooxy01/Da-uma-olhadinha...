@@ -2,7 +2,6 @@
 
 Arquivo da aula de Git e Github para iniciantes. tão legal mexer com linux + Git não é mesmo bruno ? kkkkkk vai ser meu diario no bash vim esse meu repositório kkkkk 
 
-
 Editanto arquivo para desfazer e fazer coisas no git
 
 Eu sei que isso é só um começo e um exemplo muito simples de um commit mas, queria contar um poco sobre mim nesse pequeno teste.
